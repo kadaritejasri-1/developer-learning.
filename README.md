@@ -1,6 +1,6 @@
 # Developer Learning Journey
 
-## Current Focus
+## Current Focuss
 - Python programming
 - Data Structures and Algorithms
 - Generative AI and LLMs
